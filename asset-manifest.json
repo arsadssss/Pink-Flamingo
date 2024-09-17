@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pink-Flamingo/static/css/main.0d185679.css",
-    "main.js": "/Pink-Flamingo/static/js/main.2076c1b7.js",
+    "main.js": "/Pink-Flamingo/static/js/main.4ccdec1e.js",
     "static/js/453.f37854d8.chunk.js": "/Pink-Flamingo/static/js/453.f37854d8.chunk.js",
     "static/media/latest4.png": "/Pink-Flamingo/static/media/latest4.740a29fb39a9529a1199.png",
     "static/media/latest2.png": "/Pink-Flamingo/static/media/latest2.1fcb4055f3af70677142.png",
@@ -18,11 +18,11 @@
     "static/media/people.svg": "/Pink-Flamingo/static/media/people.1c2272dbf61fa0a55b1199ebc6b95a83.svg",
     "index.html": "/Pink-Flamingo/index.html",
     "main.0d185679.css.map": "/Pink-Flamingo/static/css/main.0d185679.css.map",
-    "main.2076c1b7.js.map": "/Pink-Flamingo/static/js/main.2076c1b7.js.map",
+    "main.4ccdec1e.js.map": "/Pink-Flamingo/static/js/main.4ccdec1e.js.map",
     "453.f37854d8.chunk.js.map": "/Pink-Flamingo/static/js/453.f37854d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d185679.css",
-    "static/js/main.2076c1b7.js"
+    "static/js/main.4ccdec1e.js"
   ]
 }
