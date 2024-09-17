@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Cone Dhoop",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card1.png",
+        "price": 4.05
+    },
+    {
+        "id":2,
+        "title":"Incense Holders",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card2.png",
+        "price": 8.05
+    },
+    {
+        "id":3,
+        "title":"Incense Sticks",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card3.png",
+        "price": 5.05
+    },
+    {
+        "id":4,
+        "title":"Shankh",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card4.png",
+        "price": 10.05
+    },
+    {
+        "id":5,
+        "title":"Kalash",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card5.png",
+        "price": 4.05
+    },
+    {
+        "id":6,
+        "title":"Buddha Statue",
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/card6.png",
+        "price": 0.05
+    }
+]

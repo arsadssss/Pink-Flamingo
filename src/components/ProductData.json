@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product1.png",
+        "title":"DHOOP INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 2.05
+    },
+    {
+        "id":2,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product2.png",
+        "title":"HEM Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 1.05
+    },
+    {
+        "id":3,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product3.png",
+        "title":"Mystic Temple Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 2.75
+    },
+    {
+        "id":4,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product4.png",
+        "title":"SAC Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 5.05
+    },
+    {
+        "id":5,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product5.png",
+        "title":"Frankincense and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 3.05
+    },
+    {
+        "id":6,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product6.png",
+        "title":"INCENSE",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 10.05
+    },
+    {
+        "id":7,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product7.png",
+        "title":"Lavender INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 4.05
+    },
+    {
+        "id":8,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product8.png",
+        "title":"Sage INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 0.75
+    },
+    {
+        "id":9,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product9.png",
+        "title":"Frankincense and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 3.05
+    },
+    {
+        "id":10,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product10.png",
+        "title":"Eucalyptus INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 10.05
+    },
+    {
+        "id":11,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product11.png",
+        "title":"Orange Blossom INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 4.05
+    },
+    {
+        "id":12,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product12.png",
+        "title":"Musk INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 0.75
+    },
+    {
+        "id":13,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product13.png",
+        "title":"Bergamot and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 3.05
+    },
+    {
+        "id":14,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product14.png",
+        "title":"Gardenia INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 10.05
+    },
+    {
+        "id":15,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product15.png",
+        "title":"Yerba Santa INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 4.05
+    },
+    {
+        "id":16,
+        "image":"https://campurl.com/2024/Mar/Showcase/PinkFlamingo/product16.png",
+        "title":"Sage INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": 0.75
+    }
+]
